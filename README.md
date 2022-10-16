@@ -1,0 +1,2 @@
+# newsletter
+Using API Chimpmail
